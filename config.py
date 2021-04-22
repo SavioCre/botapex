@@ -1,4 +1,4 @@
-discordBotToken = "ODM0NTYzMDU1ODA2ODQwODUy.YICtaQ.agk3o41zy5AUHxHecN0AFPsuKTQ"
+discordBotToken = "ODM0NTYzMDU1ODA2ODQwODUy.YICtaQ.xXILu1py_ZBAtFVsW0S3ymXGEi8"
 
 config = {
   "apiKey": "AIzaSyA8CiksDVO7fpJkDl6e_Ap1r7RnN3j26fU",
